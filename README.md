@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The order of <div> <class>
+The order of <div> <class>, when to put <%end%>
 
 ## License
 
